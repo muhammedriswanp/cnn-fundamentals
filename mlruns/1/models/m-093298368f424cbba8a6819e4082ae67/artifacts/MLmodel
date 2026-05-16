@@ -1,0 +1,23 @@
+artifact_path: file:///D:/Bridgeon/Projects/cnn-fundamentals/mlruns/1/models/m-093298368f424cbba8a6819e4082ae67/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.9
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.12.0+cpu
+mlflow_version: 3.12.0
+model_id: m-093298368f424cbba8a6819e4082ae67
+model_size_bytes: 2781145
+model_uuid: m-093298368f424cbba8a6819e4082ae67
+prompts: null
+run_id: 50011ccc560f4b2bb1e5124bac8212ea
+utc_time_created: '2026-05-16 16:10:47.532254'
