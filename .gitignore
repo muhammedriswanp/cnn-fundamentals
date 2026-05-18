@@ -226,3 +226,7 @@ mlruns/
 data/
 models/ 
 /data
+
+mlflow.db
+mlruns/
+models/
